@@ -1,0 +1,22 @@
+Manifest-Version: 1.0
+Pega-Codeset-Patch: 
+Engine-Version: 08-05-02
+Pega-Codeset-Version: 06-01-01
+ArtifactName: Technocrats
+Synchronizable: false
+ArtifactVersion: 20210409.083947
+Type: Product
+Product-Creation-Date: 2021-Apr-09 00:00:00
+Version: 20210409.083947
+PRPC-Engine: 8.5.1 PRPC-8.5.1-208 ()
+Operator: Royal@VHR
+ArtifactType: product
+Pega-Archive-Type: ApplicationBundle
+Name: Technocrats
+Archive-Type: PegaArchive
+Export-Date: 2021-Apr-09 18:15:52
+Pega-Codeset-Name: Customer
+Instance-Count: 58399
+
+Name: FileMetadata
+

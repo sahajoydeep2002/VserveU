@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<application name="Technocrats 20210409.083947" description="" >
+	<parfile name="VServeU_ProductFile_dbconfig.jar" order="1" dbconfig="true" />
+	<sarfile name="VServeU_ProductFile_schema.jar" order="2"/>
+	<parfile name="VServeU_ProductFile_rules.jar" order="3"/>
+</application>
